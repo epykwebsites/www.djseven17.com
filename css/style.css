@@ -2585,16 +2585,6 @@ ol {
 	position: relative;
 }
 
-.contact__address ul li span:after {
-	position: absolute;
-	right: -20px;
-	top: -1px;
-	content: ".";
-	font-size: 39px;
-	line-height: 0;
-	border-radius: 50%;
-}
-
 .contact__address ul li span:last-child {
 	margin-right: 0;
 }
