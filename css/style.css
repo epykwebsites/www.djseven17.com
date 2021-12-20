@@ -2702,7 +2702,7 @@ ol {
 
 @media only screen and (max-width: 767px) {
 	.hero {
-		padding-top: 1000px;
+		padding-top: 800px;
 		padding-bottom: 50px;
 	}
 	.event .section-title:after {
